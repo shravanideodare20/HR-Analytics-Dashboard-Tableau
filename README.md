@@ -1,4 +1,5 @@
 **HR Analytics Dashboard (Tableau)**
+
 **Overview**
 This project focuses on analyzing HR data to uncover key workforce insights, including attrition trends, employee distribution, and job satisfaction levels.
 It delivers an interactive Tableau dashboard that helps HR teams make informed decisions to improve retention and workforce planning.
