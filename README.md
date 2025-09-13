@@ -34,8 +34,11 @@ Dashboard Actions – Interactive drill-downs and filtering
 **Files Included**:
 
 HR_Analytics_Dashboard.twbx – Tableau packaged workbook
+
 HR_Data.csv – Sample HR dataset
+
 screenshots/ – Folder with dashboard previews
+
 videos/ – Folder with demo recordings
 
 **How to Use**:
