@@ -1,10 +1,12 @@
 **HR Analytics Dashboard (Tableau)**
 
-**Overview**
+**Overview**:
+
 This project analyzes HR data to uncover key workforce insights, including attrition trends, employee distribution, and job satisfaction levels.
 The interactive Tableau dashboard helps HR teams make data-driven decisions to improve employee retention and workforce planning.
 
-**Key Features**
+**Key Features**:
+
 1. Attrition Analysis
 Attrition by Department, Job Role, Education Field, and Salary Bands
 Key KPIs: Attrition Rate, Total Employees, Active Employees, Average Age
@@ -22,28 +24,33 @@ Insights into attrition drivers such as salary, education, and age groups
 Filters for Department, Job Role, Education Field, and Gender
 Dynamic drill-downs for detailed analysis
 
-**Tools & Skills Used**
+**Tools & Skills Used**:
+
 Tableau Desktop – Dashboard design & visualization
 Calculated Fields & Parameters – Custom KPIs and filters
 Data Cleaning & Transformation – Preprocessing HR dataset
 Dashboard Actions – Interactive drill-downs and filtering
 
-**Files Included**
+**Files Included**:
+
 HR_Analytics_Dashboard.twbx – Tableau packaged workbook
 HR_Data.csv – Sample HR dataset
 screenshots/ – Folder with dashboard previews
 videos/ – Folder with demo recordings
 
-**How to Use**
+**How to Use**:
+
 Download the .twbx file from this repository.
 Open it in Tableau Desktop or Tableau Public.
 Use filters and parameters to explore attrition trends, job satisfaction, and workforce distribution.
 
-**Key Insights**
+**Key Insights**:
+
 High attrition rates found in specific departments and job roles.
 Younger employees and those with low job satisfaction are more likely to leave.
 Provides actionable insights for HR teams to improve employee retention strategies.
 
-**Author**
+**Author**:
+
 Shravani Deodare
 Data Enthusiast | SQL Learner 
